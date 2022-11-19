@@ -1,0 +1,20 @@
+# Site settings
+title: A blog about lorem ipsum dolor sit amet
+description: A blog about lorem ipsum dolor sit amet
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Bavly AbdEl-masih
+user_description: Passionate, highly committed Software Engineer with more than 2+ years’ experience. I have a solid background in creating complex mobile applications. I Can work independently. I feel comfortable working with a good team of developers. I’m looking to secure a position in an organization with mobile applications
+user_title: Software Developer
+email: bavely0abdelmesih@gmail.com
+twitter_username: lorem_ipsum
+github_username: BavlyAbdelmasih
+gplus_username: lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ["package.json", "src", "node_modules"]
